@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    color:green;
+    color:yellow;
     
 }
 
@@ -30,7 +30,7 @@ nav ul li {
     list-style: none;
 }
 .price{
-    margin-top: 450px;
+    margin-top: 550px;
     align-items: center;
     color: blue;
     margin-left: 50px;
@@ -40,5 +40,5 @@ button {
     border: none;
     border-radius: 2px;
     padding: 5px 12px;
-    background-color: brown;
+    background-color: yellow;
 }
