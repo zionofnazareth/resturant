@@ -1,0 +1,44 @@
+p {
+    color: red;
+    
+}
+
+body {
+    background: url(./images/rosee\ \(2\).jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    color:green;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+    list-style: none;
+}
+.price{
+    margin-top: 450px;
+    align-items: center;
+    color: blue;
+    margin-left: 50px;
+}
+
+button {
+    border: none;
+    border-radius: 2px;
+    padding: 5px 12px;
+    background-color: brown;
+}
